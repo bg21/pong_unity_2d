@@ -13,42 +13,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-26T19:44:34.377-03:00
-  initializedAtString: 2020-12-26T19:43:52.357-03:00
+  lastUpdatedAtString: 2020-12-26T20:03:28.215-03:00
+  initializedAtString: 2020-12-26T19:46:42.237-03:00
   entries:
-  - path: Assets\Sprites.meta
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Sprites.meta
-    projectPath: Assets\Sprites.meta
+  - path: Assets\Scenes\pong.unity
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Scenes\pong.unity
+    projectPath: Assets\Scenes\pong.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts.meta
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\boing.ogg
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Sprites\boing.ogg
-    projectPath: Assets\Sprites\boing.ogg
+  - path: Assets\Scripts\RaqueteController.cs
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Scripts\RaqueteController.cs
+    projectPath: Assets\Scripts\RaqueteController.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Sprites\boing.ogg.meta
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Sprites\boing.ogg.meta
-    projectPath: Assets\Sprites\boing.ogg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sprites\bola.png
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Sprites\bola.png
-    projectPath: Assets\Sprites\bola.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sprites\bola.png.meta
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Sprites\bola.png.meta
-    projectPath: Assets\Sprites\bola.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sprites\Raquete.png
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Sprites\Raquete.png
-    projectPath: Assets\Sprites\Raquete.png
+  - path: Assets\Scripts\RaqueteController.cs.meta
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Scripts\RaqueteController.cs.meta
+    projectPath: Assets\Scripts\RaqueteController.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -56,65 +44,23 @@ MonoBehaviour:
     fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Assets\Sprites\Raquete.png.meta
     projectPath: Assets\Sprites\Raquete.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\31\317691e9af00a60e16f4fe98461f8f04
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\31\317691e9af00a60e16f4fe98461f8f04
-    projectPath: Library\Artifacts\31\317691e9af00a60e16f4fe98461f8f04
+  - path: Library\Artifacts\7b\7b74b5986afb8952a2f5eea423c0dcc2
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\7b\7b74b5986afb8952a2f5eea423c0dcc2
+    projectPath: Library\Artifacts\7b\7b74b5986afb8952a2f5eea423c0dcc2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\4c\4c6e227940f5d3a35cdd91a0ba73e238
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\4c\4c6e227940f5d3a35cdd91a0ba73e238
-    projectPath: Library\Artifacts\4c\4c6e227940f5d3a35cdd91a0ba73e238
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8b\8bf60f38cfd01ea3ea5b518a92f65f57
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\8b\8bf60f38cfd01ea3ea5b518a92f65f57
-    projectPath: Library\Artifacts\8b\8bf60f38cfd01ea3ea5b518a92f65f57
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\94\9419e656bfbd0b8461f90a35f0b78672
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\94\9419e656bfbd0b8461f90a35f0b78672
-    projectPath: Library\Artifacts\94\9419e656bfbd0b8461f90a35f0b78672
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ab\ab3c5bb89c67895938f8c42c974a2475
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\ab\ab3c5bb89c67895938f8c42c974a2475
-    projectPath: Library\Artifacts\ab\ab3c5bb89c67895938f8c42c974a2475
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b4\b4be3338019cdb0d14652d87be198109
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\b4\b4be3338019cdb0d14652d87be198109
-    projectPath: Library\Artifacts\b4\b4be3338019cdb0d14652d87be198109
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c2\c279f201d116fd15757ff2b1f6c59dac
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\c2\c279f201d116fd15757ff2b1f6c59dac
-    projectPath: Library\Artifacts\c2\c279f201d116fd15757ff2b1f6c59dac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dcc14e3ace873c25ab8c1c24c2d5b958
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\dc\dcc14e3ace873c25ab8c1c24c2d5b958
-    projectPath: Library\Artifacts\dc\dcc14e3ace873c25ab8c1c24c2d5b958
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ee\ee0f01a4d7b49d3c0d0e86d6f0cc0759
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\ee\ee0f01a4d7b49d3c0d0e86d6f0cc0759
-    projectPath: Library\Artifacts\ee\ee0f01a4d7b49d3c0d0e86d6f0cc0759
+  - path: Library\Artifacts\ce\cea053409163f9ac8c8a3bbdfb963733
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\Artifacts\ce\cea053409163f9ac8c8a3bbdfb963733
+    projectPath: Library\Artifacts\ce\cea053409163f9ac8c8a3bbdfb963733
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -124,9 +70,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -148,21 +106,81 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\542656231a26b1ce9748a693291dde1a.bin
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\ShaderCache\5\542656231a26b1ce9748a693291dde1a.bin
+    projectPath: Library\ShaderCache\5\542656231a26b1ce9748a693291dde1a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\736c288aa52350a1b63d038fcf946ef3.bin
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\ShaderCache\7\736c288aa52350a1b63d038fcf946ef3.bin
+    projectPath: Library\ShaderCache\7\736c288aa52350a1b63d038fcf946ef3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\3df8ff-mainStage.json
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\StateCache\Hierarchy\3df8ff-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\3df8ff-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\300653-mainStage.json
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Library\StateCache\SceneView\300653-mainStage.json
+    projectPath: Library\StateCache\SceneView\300653-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-07254ba9f24f0e242a48409f82847235
+    fullPath: C:\Users\juhco\OneDrive\Documentos\Unity Games\pong\Temp\UnityTempFile-07254ba9f24f0e242a48409f82847235
+    projectPath: Temp\UnityTempFile-07254ba9f24f0e242a48409f82847235
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
